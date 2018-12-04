@@ -1,0 +1,3 @@
+seq2seq_trian.py和seq2seq_test.py文件中有两个类
+NMTModel类是没有加Attention机制的 Seq2Seq 的模型
+NMTModelA是加了Attention机制的 Seq2Seq 的模型
